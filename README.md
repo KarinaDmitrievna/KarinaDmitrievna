@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/jzuSsejVh8EYRfdOTz/giphy.gif" width="250"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="www.linkedin.com/in/karina-egorova-9a7441261">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
